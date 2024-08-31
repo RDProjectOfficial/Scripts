@@ -1,2 +1,3 @@
 # Scripts
-Useful Scripts for some situations
+Useful Scripts for Linux & Windows platforms
+Made for personal use
