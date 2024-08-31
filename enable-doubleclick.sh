@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Enable double-click script
+# Enable Double-Click script
 # Made by RDProject Development Team
 # For personal use
 
