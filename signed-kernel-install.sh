@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Signed Kernele installer script
+# Signed Kernel Installer script
 # Made by RDProject Development Team
 # For personal use
 
 # Start script
-root=http://ru.archive.ubuntu.com/ubuntu/pool/main/
+root=http://ru.archive.ubuntu.com/ubuntu/pool/main/ # list of all kernels
 major=6.2.0 # put version of kernel you want to install
 patch=21 # follow kernel version description
 rev=21 # follow kernel version description
