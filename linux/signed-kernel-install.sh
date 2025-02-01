@@ -5,7 +5,7 @@
 # For personal use
 
 # Start script
-root=https://se.archive.ubuntu.com/ubuntu/pool/main/ # list of all kernels
+root=http://se.archive.ubuntu.com/ubuntu/pool/main/ # list of all kernels
 major=6.2.0 # put version of kernel you want to install
 patch=21 # follow kernel version description
 rev=21 # follow kernel version description
